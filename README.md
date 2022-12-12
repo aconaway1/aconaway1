@@ -5,4 +5,4 @@ I have yet to get into the whole pipeline thing, but I'm getting close. 😆
 
 I'm also a ham radio operator 📻 and do some coding for that. It's nothing earth-shattering, but keep an eye out for that stuff.
 
-Follow me on Mastodon at https://masto.ai/@aconaway.
+Follow me on <a rel="me" href="https://masto.ai/@aconaway">Mastodon</a>.
